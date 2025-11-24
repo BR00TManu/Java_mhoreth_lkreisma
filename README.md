@@ -1,2 +1,4 @@
 # Java_mhoreth_lkreisma
-Java Project ITP
+Java Project ITP 
+
+Manuel Horeth
