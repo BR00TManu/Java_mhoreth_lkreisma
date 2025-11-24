@@ -3,7 +3,7 @@ class ProjektMain{
     MHoreth horeth = new MHoreth();
     LKreisma lorenz = new LKreisma();
 
-    MHoreth.tell();
-
+    horeth.tell();
+    lorenz.tell();
     }
 }
