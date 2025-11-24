@@ -2,3 +2,5 @@
 Java Project ITP 
 
 Manuel Horeth
+
+Kreismayr Lorenz
